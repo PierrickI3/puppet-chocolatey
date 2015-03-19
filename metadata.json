@@ -1,6 +1,6 @@
 {
   "name": "PierrickL-chocolatey",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Pierrick Lozach",
   "summary": "Chocolatey package provider for puppet",
   "license": "APACHE2",
