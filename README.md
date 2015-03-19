@@ -5,6 +5,7 @@ puppet-chocolatey (STILL IN BETA)
 =================
 
 ** Forked member of the rismoney suite of Windows Puppet Providers **
+** Will be discontinued when the official chocolatey module will be approved by PuppetLabs **
 
 This is a [Puppet](http://docs.puppetlabs.com/) package provider for
 [chocolatey](https://github.com/chocolatey/chocolatey), which is
