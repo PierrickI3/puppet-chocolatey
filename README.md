@@ -1,12 +1,10 @@
-# Support making Chocolatey better! [Kickstarter - The Chocolatey Experience](https://www.kickstarter.com/projects/ferventcoder/chocolatey-the-alternative-windows-store-like-yum)
+# [Kickstarter - The Chocolatey Experience](https://www.kickstarter.com/projects/ferventcoder/chocolatey-the-alternative-windows-store-like-yum)
 
 
 puppet-chocolatey
 =================
 
-[![Build Status](https://travis-ci.org/chocolatey/puppet-chocolatey.png?branch=master)](https://travis-ci.org/chocolatey/puppet-chocolatey)
-
-** Member of the rismoney suite of Windows Puppet Providers **
+** Forked member of the rismoney suite of Windows Puppet Providers **
 
 This is a [Puppet](http://docs.puppetlabs.com/) package provider for
 [chocolatey](https://github.com/chocolatey/chocolatey), which is
@@ -18,10 +16,7 @@ Installation
 
 Install this module via any of these approaches:
 
-* [puppet forge](http://forge.puppetlabs.com/rismoney/chocolatey)
-* git-submodule ([tutorial](http://goo.gl/e9aXh))
-* [librarian-puppet](https://github.com/rodjek/librarian-puppet)
-* [r10k](https://github.com/adrienthebo/r10k)
+* [puppet forge](http://forge.puppetlabs.com/PierrickL/chocolatey)
 
 
 Usage
@@ -61,4 +56,4 @@ if $::kernel == windows {
 Contributing
 ------------
 
-See [CONTRIBUTING.md](https://github.com/chocolatey/puppet-chocolatey/blob/master/CONTRIBUTING.md)
+See [CONTRIBUTING.md](https://github.com/PierrickI3/puppet-chocolatey/blob/master/CONTRIBUTING.md)
