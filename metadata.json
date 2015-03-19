@@ -1,14 +1,13 @@
 {
-  "name": "rismoney-chocolatey",
+  "name": "PierrickL-chocolatey",
   "version": "0.4.0",
-  "author": "rismoney",
+  "author": "Pierrick Lozach",
   "summary": "Chocolatey package provider for puppet",
   "license": "APACHE2",
-  "source": "https://github.com/rismoney/puppet-chocolatey",
-  "issues_url": "https://github.com/rismoney/puppet-chocolatey/issues",
-  "project_page": "https://github.com/rismoney/puppet-chocolatey",
+  "source": "https://github.com/PierrickI3/puppet-chocolatey",
+  "issues_url": "https://github.com/PierrickI3/puppet-chocolatey/issues",
+  "project_page": "https://github.com/PierrickI3/puppet-chocolatey",
   "description": "Chocolatey package provider for puppet",
   "dependencies": [
-  
   ]
 }
