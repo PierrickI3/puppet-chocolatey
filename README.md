@@ -1,7 +1,7 @@
 # [Kickstarter - The Chocolatey Experience](https://www.kickstarter.com/projects/ferventcoder/chocolatey-the-alternative-windows-store-like-yum)
 
 
-puppet-chocolatey
+puppet-chocolatey (STILL IN BETA)
 =================
 
 ** Forked member of the rismoney suite of Windows Puppet Providers **
