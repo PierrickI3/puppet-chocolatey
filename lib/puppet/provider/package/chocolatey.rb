@@ -26,10 +26,10 @@ Puppet::Type.type(:package).provide(:chocolatey, :parent => Puppet::Provider::Pa
     should = @resource.should(:ensure)
     case should
     when true, false, Symbol
-      args = "install", @resource[:name][/\A\S*/], resource[:install_options]
+      args = "install", @resource[:name][/\A\S*/], "-y", resource[:install_options]
     else
       # Add the package version
-      args = "install", @resource[:name][/\A\S*/], "-version", resource[:ensure], resource[:install_options]
+      args = "install", @resource[:name][/\A\S*/], "-y", "-version", resource[:ensure], resource[:install_options]
     end
 
     if @resource[:source]
